@@ -23,7 +23,9 @@ Por conta do seu companheiro estar proximo de você na hora da sua "morte", ele 
 Aumentar a área em que o personagem toma dano para baixo do nível da água possivelmente resolveria esse problema, já que assim que o jogador ressuscitasse, ele morreria instantaneamente e voltaria ao ponto de controle mais próximo   
    
 ## 🖼️ Captura de Tela / Vídeo  
-Se houver imagens ou vídeos do bug, inclua-os aqui:  
+ 
+ 
+![Bug do Avowed](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BAvowed%5D-Fora_do_%20mapa.png)
 ![Bug do Avowed](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BAvowed%5D-Fora_do_%20mapa.png)
 
 
