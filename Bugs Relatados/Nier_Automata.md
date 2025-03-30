@@ -21,8 +21,4 @@ A câmera sai do eixo e se desloca para fora do Bunker
 🔸 **Moderado:** Pode atrapalhar a jogabilidade
 
 ## 🛠 Possível Solução
-fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador.
-
-## 🖼️ Captura de Tela / Vídeo  
-Se houver imagens ou vídeos do bug, inclua-os aqui:  
-`![Descrição da Imagem](../Imagens/nome_do_arquivo.png)`  
+fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador. 
