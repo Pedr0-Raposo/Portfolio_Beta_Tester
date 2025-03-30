@@ -3,7 +3,7 @@
 - **📅 Data do Relatório:** 20/02/2025
 - **🖥️ Plataforma:** PC  
 - **📍 Local do Bug:** No precipício de "Watcher's Mirror"  
-- **📝 Descrição:** O jogo possui um sistema de te causar dano assim que você atravessar a barreira limite, porém nesse local, você acaba "morrendo" no ar e como a água desse lugar não possue física aplicada, você acaba atravessando ela e pode resuscitar a baixo dela. Te dando caminho livre para explorar regiões inalcansáveis antes.  
+- **📝 Descrição:** O jogo possui um sistema de te causar dano assim que você atravessar a barreira limite, porém nesse local, você acaba "morrendo" no ar e como a água desse lugar não possue física aplicada, você acaba atravessando ela e pode ressuscitar a baixo dela. Te dando caminho livre para explorar regiões inalcansáveis antes.  
 
 ## 🔄 Passos para Reproduzir
 1. Passo 1: tenha uma acompanhante no seu grupo para desbloquear a habilidade de ressurreição   
