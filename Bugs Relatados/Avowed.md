@@ -24,6 +24,6 @@ Aumentar a área em que o personagem toma dano para baixo do nível da água pos
    
 ## 🖼️ Captura de Tela / Vídeo  
 Se houver imagens ou vídeos do bug, inclua-os aqui:  
-![Bug do Avowed](../Imagens/[Avowed]_Fora_do_mapa.png)
+![Bug do Avowed](../imagens/[Avowed]-Fora_do_mapa.png)
 
  
