@@ -24,5 +24,6 @@ Aumentar a área em que o personagem toma dano para baixo do nível da água pos
    
 ## 🖼️ Captura de Tela / Vídeo  
 Se houver imagens ou vídeos do bug, inclua-os aqui:  
-![Bug do Avowed](Portfolio_Beta_Tester/Bugs Relatados/bug_nier_automata.png) 
+![Bug do Avowed](../Imagens/bug_nier_automata.png)
+
  
