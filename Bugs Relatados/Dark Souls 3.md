@@ -40,4 +40,4 @@
 
 Se houver imagens ou vídeos do bug, inclua-os aqui: 
 
-![Descrição da Imagem](../Imagens/nome_do_arquivo.png) 
+![Bug do Avowed](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BAvowed%5D-Limbo.png)
