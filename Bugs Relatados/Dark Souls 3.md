@@ -40,4 +40,4 @@
 
 Se houver imagens ou vídeos do bug, inclua-os aqui: 
 
-![Bug do Avowed](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BAvowed%5D-Limbo.png)
+![Bug do Dark Souls 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BDarkSouls3%5D%20Boss%20na%20parede.png)
