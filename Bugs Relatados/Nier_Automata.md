@@ -1,8 +1,14 @@
-# Câmera perdendo os personagens de vista.
+# 🎮 Bug no Nier Automata - Câmera Bugada
 
-Um bug de câmera encontrado no jogo onde a câmera tenta focar na 2B e no 9S ao mesmo tempo, porém por deixar o 9S preso no elevador a câmera buga e sai do seu eixo original e filma o lado de fora da nave em uma posição estranha 
+- **Plataforma:** Xbox 360 
+- **Local do bug:** Elevador na nave-mãe  
+- **Passos para reproduzir:**  
+  1. Subir pelo elevador onde se encontram os YorHa flight unit
+  2. Descer novamente.
+  3. Assim que a porta abrir, corra para a direita, impedindo o 9S de te seguir e bloqueando a passagem dele.
+  4. continue correndo até a câmera saia do eixo e filme o lado de fora da nave.  
 
-- Subir pelo elevador que te leva para a área de partida usando os mechas e em seguida descer por ele novamente. 
-- Assim que a porta abrir, deve correr imediatamente para a direita, impedindo o 9S de te seguir e bloqueando a passagem dele, continue correndo até a camera começar a se torcer. 
-- É apenas um bug de câmera na “nave-mãe”, assim q vc completar um giro completo ou voltar até a posição do 9S a câmera será ajustada automaticamente sem atrapalhar a jogabilidade. 
-- Foi corrigida fazendo o 9S aparecer próximo a 2B caso ele esteja a uma distância muito grande dela. 
+- **Resultado esperado:** A câmera deve se manter fixa no personagem  
+- **Resultado obtido:** A câmera sai do eixo e se desloca para fora da nave  
+- **Impacto:** Moderado (bug visual que pode afetar a jogabilidade)  
+- **Sugestão de correção:** fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador.  
