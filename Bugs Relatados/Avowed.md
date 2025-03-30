@@ -17,7 +17,7 @@ Seu personagem deveria morrer e reaparecer automaticamente no último ponto de c
 Por conta do seu companheiro estar proximo de você na hora da sua "morte", ele te permite levantar novamente graças a habilidade dele.
 
 ## ⚠ Impacto do Bug
-🔸 **Moderado:** Pode atrapalhar a jogabilidade te fazendo perder algum tempo de jogo caso você não tenha feito um save antes desse bug, pois atravessar determinada área pode te fazer cair no “limbo” infinitamente e o único jeito de voltar seria carregando o seu último ponto de salvamento. 
+🔸 **Moderado:** Pode atrapalhar a jogabilidade, te fazendo perder algum tempo de jogo caso você não tenha feito um save antes desse bug, pois sem cuidado pode cair no “limbo” infinitamente e o único jeito de voltar seria carregando o seu último ponto de salvamento. 
  
 ## 🛠 Possível Solução
 Aumentar a área em que o personagem toma dano para baixo do nível da água possivelmente resolveria esse problema, já que assim que o jogador ressuscitasse, ele morreria instantaneamente e voltaria ao ponto de controle mais próximo 
