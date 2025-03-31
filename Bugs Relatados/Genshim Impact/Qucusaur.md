@@ -5,7 +5,7 @@
 - **📍 Local do Bug:
 ![Local que foi feito](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BGI%5D-Qucusaur.png)
 
-  Ele não precisa necessariamente de um local especifico, É apenas um local alto que da uma experiencia mais divertida.
+  Ele não precisa necessariamente de um local especifico, é apenas uma região alta que da uma experiência mais divertida.
 
 - **📝 Descrição:** Na média de 1 minuto sem se mover o personagem inicia uma animação, mas se você pular no mesmo frame em que a animação se inicia, o Sauriano começa a faze-lá no ar, logo após a animação terminar, você continua flutuando e sobe possivelmente 1 centímetro por segundo. Esse bug limita a sua movimentação, te permitindo andar apenas para frente, outro ponto a ressaltar é que se você estiver em um lugar alto, vai poder caminhar no ar.  
 
