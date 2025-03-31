@@ -2,7 +2,7 @@
 
 📅 Data do Relatório: 25/02/2025
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
 📍 Local do Bug: Pode ser feito em qualquer lugar que tenha um teste com dado.
 
