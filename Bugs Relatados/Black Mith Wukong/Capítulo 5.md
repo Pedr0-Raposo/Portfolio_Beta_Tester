@@ -1,5 +1,4 @@
-🎮 Black Myth Wukong - Personagem PingPing parada como uma estátua no meio da arena e sem colisão, após a derrota do boss
-
+🎮 Black Myth Wukong - Personagem PingPing estática no meio da arena.
 📅 Data do Relatório: 29/08/2024
 🖥️ Plataforma: PC 
 
@@ -9,25 +8,25 @@
 
 🔄 Passos para Reproduzir 
 
-Passo 1: Derrote o Boss do capítulo 5  
-Passo 2: Use o incensário para voltar até o mapa do capítulo 5 
-Passo 3: Vá até a arena,
+Passo 1: Derrote o Boss do capítulo 5.
+Passo 2: Use o incensário para voltar até o mapa do capítulo 5 .
+Passo 3: Vá até a área final do mapa.
 
 
 🎯 Resultado Esperado 
-
+  1° hipótese: PingPing estaria na arena conversando com seu pai.
+  2° hipótese: Ela não deveria estar mais ali após ver a cutscene do Boss.
   
-
 🚨 Resultado Obtido 
+Após a cutscene final do capítulo 5, esqueceram de remover o modelo da personagem do meio da arena, ocasionando esse encontro com ela parada e sem uma caixa de colisão.
 
-[O que realmente acontece no jogo]  
 
 ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um problema visual 
+🔹 Leve: Apenas um problema visual. 
 
 🛠 Possível Solução 
-
+Remover o modelo dela da arena após o capitulo 5 se encerrar
 
 🖼️ Captura de Tela / Vídeo 
 
