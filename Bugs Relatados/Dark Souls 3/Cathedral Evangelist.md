@@ -1,4 +1,4 @@
-🎮 [Nome do Jogo] - [Descrição do Bug] 
+🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
 
 📅 Data do Relatório: DD/MM/AAAA  
 
