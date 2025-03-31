@@ -1,4 +1,4 @@
-## 🎮 [Dark Souls 3] - Evangelista da Catedral dentro da ponte.
+## 🎮 Dark Souls 3 - Evangelista da Catedral dentro da ponte.
 
 📅 Data do Relatório: 14/01/2025  
 
