@@ -1,12 +1,12 @@
-## 🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
+## 🎮 Baldur´s gate 3 - Eylla e os guardas bloqueando a passagem.
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: 25/02/2025 
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📍 Local do Bug:   
 
-📝 Descrição: [Explique o bug de forma clara] 
+📝 Descrição: Originalmente, seriam 2 cenas separadas. A primeira sendo da Ekylla falando que iria procurar outro caminho, pois os cavaleiros estariam bloqueando a passagem pela ponte
 
 ## 🔄 Passos para Reproduzir 
 
