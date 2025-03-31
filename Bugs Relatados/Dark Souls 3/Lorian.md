@@ -1,4 +1,4 @@
-## 🎮 [Dark Souls 3] - Boss Lorian preso dentro da parede
+## 🎮 Dark Souls 3 - Boss Lorian preso dentro da parede
 
 📅 Data do Relatório: 12/12/2024
 
