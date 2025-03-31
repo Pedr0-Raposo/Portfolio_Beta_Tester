@@ -1,6 +1,6 @@
 # 🎮 Portfólio de Beta Tester
 
-Bem-vindo ao meu portfólio de Beta Tester! Aqui compartilho alguns dos bugs que encontrei em jogos e aplicativos, além de minhas experiências com testes beta.
+Bem-vindo ao meu portfólio de QA! Aqui compartilho alguns dos bugs que encontrei em jogos e aplicativos, além de minhas experiências com testes beta.
 
 ## 🕵️ Sobre Mim
 Sou um entusiasta de QA e testes de software, apaixonado por identificar falhas e ajudar a melhorar a experiência dos jogadores. Participo de testes beta e exploro jogos em busca de bugs e glitches.
