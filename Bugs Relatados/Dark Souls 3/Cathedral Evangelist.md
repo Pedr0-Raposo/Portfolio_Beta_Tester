@@ -38,4 +38,7 @@
 
 🖼️ Captura de Tela / Vídeo 
 
+![Bug do Dark Souls 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BDarkSouls3%5D%20monja.png)
+
 ![Bug do Dark Souls 3]( )
+
