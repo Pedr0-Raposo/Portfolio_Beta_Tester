@@ -32,7 +32,6 @@ Assim que o Lorian aparece em cima do jogador para atacar, deve entrar em contat
 
 2° opção: Diminuir a altura do ataque imersivo do Lorian. 
 
-[Sugestão para corrigir o problema, se aplicável]  
 
 🖼️ Captura de Tela / Vídeo 
 
