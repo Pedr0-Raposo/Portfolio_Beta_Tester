@@ -1,26 +1,28 @@
-# 🎮 Bug no Genshin Impact - Qucusaur caminahndo no ar
+# 🎮 Bug no Genshin Impact - Qucusaur caminhando no ar
 
 - **📅 Data do Relatório:** 22/01/2025
 - **🖥️ Plataforma:** PC
-- **📍 Local do Bug: Ele não precisa necessariamente de um local especifico, É apenas um local alto que da uma experiencia mais divertida.
+- **📍 Local do Bug:
 ![Local que foi feito](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BGI%5D-Qucusaur.png)
 
-- **📝 Descrição:** Um bug de câmera encontrado no jogo onde a câmera tenta focar na 2B e no 9S ao mesmo tempo, porém por deixar o 9S preso no elevador a câmera buga, sai do seu eixo original e filma o lado de fora do Buner em uma posição estranha.   
+  Ele não precisa necessariamente de um local especifico, É apenas um local alto que da uma experiencia mais divertida.
+
+- **📝 Descrição:** Na média de 1 minuto sem se mover o personagem inicia uma animação, mas se você pular no mesmo frame em que a animação se inicia, o Sauriano começa a faze-lá no ar, logo após a animação terminar, você continua flutuando e sobe possivelmente 1 centímetro por segundo. Esse bug limita a sua movimentação, te permitindo andar apenas para frente, outro ponto a ressaltar é que se você estiver em um lugar alto, vai poder caminhar no ar.  
 
 ## 🔄 Passos para Reproduzir
-1. Subir pelo elevador onde se encontram os YorHa flight unit
-2. Descer novamente.
-3. Assim que a porta abrir, corra para a direita, impedindo o 9S de te seguir e bloqueando a passagem dele.
-4. continue correndo até a câmera saia do eixo e filme o lado de fora da nave.
+1. Se transforme no Qucusaur. 
+2. Espere até que a animação se inicie e tenha sorte para pular no momento exato.  
+3. Estar em um lugar alto é opcional
    
 ## 🎯 Resultado Esperado
-A câmera deve se manter fixa no personagem   
+Ao pular, deve cancelar/impedir a animação de continuar.  
 
 ## 🚨 Resultado Obtido
-A câmera sai do eixo e se desloca para fora do Bunker   
+O Qucusaur faz a animação normalmente no ar subindo alguns centimetro por segundo
 
 ## ⚠ Impacto do Bug
-🔸 **Moderado:** Pode atrapalhar a jogabilidade
+🔹 Leve: Apenas um pequeno incômodo. Apesar de restringir seu movimento apenas auma linha reta, pular irá desbugar seu boneco.
+   E por ser um bug extremamente difícil de se replicar, pois precisa de um timing perfeito e sorte, não deve impactar diretamente o jogo.
 
 ## 🛠 Possível Solução
 fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador. 
