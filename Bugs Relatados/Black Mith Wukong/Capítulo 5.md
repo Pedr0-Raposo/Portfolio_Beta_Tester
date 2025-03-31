@@ -38,4 +38,4 @@
 
 🖼️ Captura de Tela / Vídeo 
 
-![Descrição da Imagem](../Imagens/nome_do_arquivo.png) 
+![PingPing Estatica no meio da arena](../Imagens/nome_do_arquivo.png) 
