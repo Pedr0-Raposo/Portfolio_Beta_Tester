@@ -1,4 +1,4 @@
-## 🎮 Baldur's gate 3 - Classe de dificuldado alterada para 0
+## 🎮 Baldur's gate 3 - Classe de dificuldade alterada para 0
 
 📅 Data do Relatório: 25/02/2025
 
