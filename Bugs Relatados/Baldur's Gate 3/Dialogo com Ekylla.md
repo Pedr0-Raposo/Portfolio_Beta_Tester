@@ -1,4 +1,4 @@
-🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
+## 🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
 
 📅 Data do Relatório: DD/MM/AAAA  
 
@@ -8,7 +8,7 @@
 
 📝 Descrição: [Explique o bug de forma clara] 
 
-🔄 Passos para Reproduzir 
+## 🔄 Passos para Reproduzir 
 
 [Passo 1: O que precisa ser feito]  
 
@@ -16,15 +16,15 @@
 
 [Passo 3: O bug acontece] 
 
-🎯 Resultado Esperado 
+## 🎯 Resultado Esperado 
 
 [O que deveria acontecer normalmente]  
 
-🚨 Resultado Obtido 
+## 🚨 Resultado Obtido 
 
 [O que realmente acontece no jogo]  
 
-⚠ Impacto do Bug 
+## ⚠ Impacto do Bug 
 
 🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
 
@@ -32,11 +32,11 @@
 
 🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
 
-🛠 Possível Solução 
+## 🛠 Possível Solução 
 
 [Sugestão para corrigir o problema, se aplicável]  
 
-🖼️ Captura de Tela / Vídeo 
+## 🖼️ Captura de Tela / Vídeo 
 
 ![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-dialogo.png)
 
