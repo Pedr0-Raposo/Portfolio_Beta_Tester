@@ -24,7 +24,7 @@ Assim que o Lorian aparece em cima do jogador para atacar, deve entrar em contat
 
 ## ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um pequeno incômodo, pois ele fica preso temporáriamente. Ele voltará para dentro da arena para continuar o combate, assim quer fizer o seu ataque imersivo de novo.
+🔹 Leve: Apenas um pequeno incômodo, pois ele fica preso temporariamente. Ele voltará para dentro da arena para continuar o combate, assim quer fizer o seu ataque imersivo de novo.
 
 ## 🛠 Possível Solução 
 
