@@ -1,20 +1,19 @@
-🎮 [Nome do Jogo] - [Descrição do Bug] 
+🎮 [Dark Souls 3] - [Boss Lorian preso dentro da parede] 
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: 12/12/2024
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
-
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+🖥️ Plataforma: PC
+📍 Local do Bug: Castelo de Lorthric 
 
 📝 Descrição: [Explique o bug de forma clara] 
 
 🔄 Passos para Reproduzir 
 
-[Passo 1: O que precisa ser feito]  
+Passo 1:
 
-[Passo 2: Continuar com a ação]  
+Passo 2: 
 
-[Passo 3: O bug acontece] 
+Passo 3:
 
 🎯 Resultado Esperado 
 
@@ -26,11 +25,8 @@
 
 ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
+🔹 Leve: Apenas um pequeno incômodo, pois ele fica preso temporáriamente. Ao refazer o seu ataque imersivo, ele voltará para dentro da arena para continuar o combate. 
 
-🔸 Moderado: Pode atrapalhar a jogabilidade, mas não impede o progresso. 
-
-🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
 
 🛠 Possível Solução 
 
