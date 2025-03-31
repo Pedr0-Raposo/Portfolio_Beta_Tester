@@ -25,6 +25,8 @@ O Qucusaur faz a animação normalmente no ar subindo alguns centimetro por segu
    E por ser um bug extremamente difícil de se replicar, pois precisa de um timing perfeito e sorte, não deve impactar diretamente o jogo.
 
 ## 🛠 Possível Solução
-fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador. 
+Ajustar o tempo de ativação da animação
+
+Se a animação começa após 1 minuto parado, pode ser interessante impedir que o jogador pule no momento em que ela se inicia. Um pequeno atraso ou bloqueio temporário da entrada de comandos nesse momento pode reduzir a chance do bug acontecer.
 
 
