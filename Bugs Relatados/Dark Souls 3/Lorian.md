@@ -1,4 +1,4 @@
-🎮 [Dark Souls 3] - [Boss Lorian preso dentro da parede] 
+## 🎮 [Dark Souls 3] - [Boss Lorian preso dentro da parede] 
 
 📅 Data do Relatório: 12/12/2024
 
@@ -7,7 +7,7 @@
 
 📝 Descrição: [Explique o bug de forma clara] 
 
-🔄 Passos para Reproduzir 
+## 🔄 Passos para Reproduzir 
 
 Passo 1:
 
@@ -15,20 +15,19 @@ Passo 2:
 
 Passo 3:
 
-🎯 Resultado Esperado 
+## 🎯 Resultado Esperado 
 
 [O que deveria acontecer normalmente]  
 
-🚨 Resultado Obtido 
+## 🚨 Resultado Obtido 
 
 [O que realmente acontece no jogo]  
 
-⚠ Impacto do Bug 
+## ⚠ Impacto do Bug 
 
 🔹 Leve: Apenas um pequeno incômodo, pois ele fica preso temporáriamente. Ao refazer o seu ataque imersivo, ele voltará para dentro da arena para continuar o combate. 
 
-
-🛠 Possível Solução 
+## 🛠 Possível Solução 
 
 [Sugestão para corrigir o problema, se aplicável]  
 
