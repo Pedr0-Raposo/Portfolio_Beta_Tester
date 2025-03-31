@@ -1,4 +1,4 @@
-## 🎮 Baldur´s gate 3 - Eylla e os guardas bloqueando a passagem.
+## 🎮 Baldur´s gate 3 - Ekylla e os guardas bloqueando a passagem.
 
 📅 Data do Relatório: 25/02/2025 
 
