@@ -5,27 +5,27 @@
 
 📍 Local do Bug: 
 
-📝 Descrição: 
+📝 Descrição: Um pilar encontrado no captulo 3.
 
 🔄 Passos para Reproduzir 
 
-Passo 1:   
-Passo 2:  
-
+Passo 1: Siga o camino da esquerda depois de sair da ilha tartaruga.
+Passo 2: Encontre uma área circular com uma lagoa a esquerda
+Passo 3: siga a parede da esquerda até encontrar o pilar
 
 
 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+Deveria ter uma caixa de colisão que te impedisse de passar pelo pilar  
 
 🚨 Resultado Obtido 
 
-[O que realmente acontece no jogo]  
+Você atravessa o pilar como se ele não existesse 
 
 ⚠ Impacto do Bug 
 
 🔹 Leve: Apenas um problema visual 
 
 🛠 Possível Solução 
-
+Adicionar umacaixa de colisão cilindrica ao pilar.
 
