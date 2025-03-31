@@ -1,4 +1,4 @@
-## 🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
+## 🎮 Baldur's gate 3 - Classe de dificuldado alterada para 0
 
 📅 Data do Relatório: DD/MM/AAAA  
 
