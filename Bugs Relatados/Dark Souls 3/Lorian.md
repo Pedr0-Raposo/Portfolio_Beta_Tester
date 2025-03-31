@@ -6,7 +6,7 @@
 
 📍 Local do Bug: Castelo de Lorthric 
 
-📝 Descrição: Lorian possui um ataque em que desaparece momentâneamente em névoa e reaparece em cima do ser personagem realizando uma ataque imersivo, existe uma chance dele realizar esse ataque logo como primeiro movimento. Caso o jogador fique parado em uma posição especifica, o Lorian vai fazer o ataque e ficar preso em cimma da porta.
+📝 Descrição: Lorian possui um ataque em que desaparece momentâneamente em névoa e reaparece em cima do ser personagem realizando uma ataque imersivo, existe uma chance dele realizar esse ataque logo como primeiro movimento. Caso o jogador fique parado em uma posição especifica, o Lorian vai fazer o ataque e ficar preso em cima da porta.
 
 ## 🔄 Passos para Reproduzir 
 
