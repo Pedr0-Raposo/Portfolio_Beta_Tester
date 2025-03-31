@@ -4,8 +4,7 @@
 
 🖥️ Plataforma: PC
 
-📍 Local do Bug:  ![Local](
-) 
+📍 Local do Bug:  ![Local](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-dialogo_local.png) 
 
 📝 Descrição: Originalmente, seriam 2 cenas separadas. A primeira sendo da Ekylla falando que iria procurar outro caminho, pois os cavaleiros estariam bloqueando a passagem pela ponte
 
