@@ -1,4 +1,4 @@
-🎮 [Dark Souls 3] - Evangelista da Catedral dentro do chão.
+🎮 [Dark Souls 3] - Evangelista da Catedral dentro da ponte.
 
 📅 Data do Relatório: DD/MM/AAAA  
 
@@ -6,7 +6,7 @@
 
 📍 Local do Bug: Assentamento dos Mortos-Vivos
 
-📝 Descrição:
+📝 Descrição: Evangelista da Catedral fica presa dentro da ponte de pedra.
 
 🔄 Passos para Reproduzir 
 
