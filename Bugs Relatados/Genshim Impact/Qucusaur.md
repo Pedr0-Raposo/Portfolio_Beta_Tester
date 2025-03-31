@@ -1,4 +1,4 @@
-# 🎮 Bug no Genshin Impact - Qucusaur caminhando no ar
+# 🎮 Genshin Impact - Qucusaur caminhando no ar
 
 - **📅 Data do Relatório:** 22/01/2025
 - **🖥️ Plataforma:** PC
