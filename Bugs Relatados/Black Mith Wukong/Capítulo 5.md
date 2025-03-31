@@ -38,4 +38,4 @@
 
 🖼️ Captura de Tela / Vídeo 
 
-![PingPing Estatica no meio da arena](../Imagens/nome_do_arquivo.png) 
+![PingPing Estatica no meio da arena](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBMW%5D-PingPingStatic.png) 
