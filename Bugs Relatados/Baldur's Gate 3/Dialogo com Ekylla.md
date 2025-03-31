@@ -40,5 +40,6 @@
 
 ![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-dialogo.png)
 
-![Bug do Baldur´s Gate 3]()
+Como deveria ocorrer o dialogo
+![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-dialogo_correto.png)
 
