@@ -23,3 +23,4 @@ A câmera sai do eixo e se desloca para fora do Bunker
 ## 🛠 Possível Solução
 fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador. 
 
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM)
