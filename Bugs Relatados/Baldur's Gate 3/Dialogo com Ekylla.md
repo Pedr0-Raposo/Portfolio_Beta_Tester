@@ -1,4 +1,4 @@
-## 🎮 Baldur´s gate 3 - Guardas ainda vicos após o dragão pousar
+## 🎮 Baldur´s gate 3 - Guardas ainda vivos após o dragão pousar
 
 📅 Data do Relatório: 25/02/2025 
 
