@@ -40,6 +40,7 @@
 
 ![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera.png)
 
+Caminho para chegar a esse local
 ![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera_local.png)
 
 
