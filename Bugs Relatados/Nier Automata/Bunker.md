@@ -8,8 +8,8 @@
 ## 🔄 Passos para Reproduzir
 1. Subir pelo elevador onde se encontram os YorHa flight unit
 2. Descer novamente.
-3. Assim que a porta abrir, corra para a direita, impedindo o 9S de te seguir e bloqueando a passagem dele.
-4. continue correndo até a câmera saia do eixo e filme o lado de fora da nave.
+3. Assim que a porta abrir, corra para a direita, impedindo o 9S ou 2B de te seguir.
+4. Assim que a câmera começar a se mexer, volte e corre na outra direção, até que a câmera saia do eixo e filme o lado de fora da nave.
    
 ## 🎯 Resultado Esperado
 A câmera deve se manter fixa no personagem   
