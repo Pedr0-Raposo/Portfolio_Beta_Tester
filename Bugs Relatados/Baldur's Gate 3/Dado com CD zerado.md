@@ -1,6 +1,6 @@
 ## 🎮 Baldur's gate 3 - Classe de dificuldado alterada para 0
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: 25/02/2025
 
 🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
 
