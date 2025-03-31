@@ -1,41 +1,37 @@
 ## 🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: 26/02/2025
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
 📍 Local do Bug: Caminho para chegar a esse local
 ![Local](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera_local.png)
 
-📝 Descrição: [Explique o bug de forma clara] 
+📝 Descrição: Falhas no teto da caverna de Emerald Grove
 
 ## 🔄 Passos para Reproduzir 
 
-[Passo 1: O que precisa ser feito]  
+Passo 1: Use a Karlach para fazer o percurso
 
-[Passo 2: Continuar com a ação]  
+Passo 2: Deixe a Karlach na parte mais alta no fim desse percurso, onde deverá ter um baú para abrir
 
-[Passo 3: O bug acontece] 
+Passo 3: Volte a câmera e deixe ela filmando a parte interna de Emerald Grove.
 
 ## 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+A camera não deveria ter angulo para filmar tão alto.
 
 ## 🚨 Resultado Obtido 
 
-[O que realmente acontece no jogo]  
+Por uma decisão técnica, fizeram a câmera ficar em uma altura especifica em comparação com a do personagem jogável. Por conta disso, deixar a Karlach num ponto mais alto, faz com que a câmera também fique mais alta. dando ao jogador a vista das falhas no teto.
 
 ## ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
-
-🔸 Moderado: Pode atrapalhar a jogabilidade, mas não impede o progresso. 
-
-🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
+🔹 Leve: Apenas um problema visual. 
 
 ## 🛠 Possível Solução 
 
-[Sugestão para corrigir o problema, se aplicável]  
+Remodelar o teto da caverna ou limitar a altura da câmera baseado na altura atual do personagem.
 
 ## 🖼️ Captura de Tela / Vídeo 
 
