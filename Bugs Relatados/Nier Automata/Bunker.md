@@ -1,4 +1,4 @@
-# 🎮 Bug no Nier Automata - Câmera Bugada
+# 🎮 Nier Automata - Câmera Bugada
 
 - **📅 Data do Relatório:** 15/06/2018
 - **🖥️ Plataforma:** Xbox  
