@@ -16,7 +16,7 @@ Passo 2: Suba pela escada a esquerda logo depois de passar por baixo da ponte.
 
 Passo 3: faça com que a Evangelista comece a andar de costas em direção a pilha de madeira escontada na parede.
 
-Passo 4: Ela irá subir na madeira encostada na parede e ficar presa dentro do chão. Podendo ver a cabeça dela pra fora, em cima e parte do vestido, por baixo da ponte 
+Passo 4: Ela irá subir na madeira encostada na parede e ficar presa dentro do chão. Podendo ver a cabeça dela pra fora em cima e parte do vestido, por baixo da ponte 
 
 🎯 Resultado Esperado 
 
