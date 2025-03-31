@@ -35,9 +35,3 @@
 🛠 Possível Solução 
 
 [Sugestão para corrigir o problema, se aplicável]  
-
-🖼️ Captura de Tela / Vídeo 
-
-Se houver imagens ou vídeos do bug, inclua-os aqui: 
-
-![Descrição da Imagem](../Imagens/nome_do_arquivo.png) 
