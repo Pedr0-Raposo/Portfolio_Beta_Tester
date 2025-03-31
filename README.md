@@ -20,7 +20,7 @@ Sou um entusiasta de QA e testes de software, apaixonado por identificar falhas 
 
 
  ## 🔧 Ferramentas 
-  - Google Docs, Microsoft Office (documentação)
+  - Google Docs, Word (documentação)
   - Captura de tela e gravação de vídeo (OBS Studio, NVidia)
   - Plataformas de testes beta: uTest, Test.io, Steam Beta, TestFlight
   - Discord, Reddit e fóruns de feedback para testes comunitários 
