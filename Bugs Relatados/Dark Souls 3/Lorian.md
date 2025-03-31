@@ -3,6 +3,7 @@
 📅 Data do Relatório: 12/12/2024
 
 🖥️ Plataforma: PC
+
 📍 Local do Bug: Castelo de Lorthric 
 
 📝 Descrição: Lorian possui um ataque em que desaparece momentâneamente em návoa e reaparece em cima do ser personagem realizando uma ataque imersivo, existe uma chance dele realizar esse ataque logo como primeiro movimento assim que voc\~e entrar na arena. CAso o jogador fique parado em uma posição especifica o Lorian vai fazerr o ataque e ficar preso em cimma da porta.
