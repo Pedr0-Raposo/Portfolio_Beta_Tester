@@ -11,5 +11,5 @@ Sou um entusiasta de QA e testes de software, apaixonado por identificar falhas 
 - **Capturas de tela e vídeos** demonstrando os problemas encontrados.
 
 ## 📬 Contato
-- ✉️ Email: [Ti0pedroficia@gmail.com](mailto:Ti0pedroficia@gmail.com)
+- ✉️ Email: [Ti0pedroficia@gmail.com](mailto:Ti0pedroficial@gmail.com)
 - Discord [.tiopedro] ou [TioPedro#0616] 
