@@ -1,4 +1,4 @@
-🎮 Grand Thetf Auto V - bug para ficar dentro da ponte no centro de Los Santos.
+## 🎮 Grand Thetf Auto V - bug para ficar dentro da ponte no centro de Los Santos.
 📅 Data do Relatório: 28/08/2021 
 
 🖥️ Plataforma: PC
@@ -8,7 +8,7 @@
 
 📝 Descrição: Esse bug permite ficar dentro dda ponte no centro da cidade, usando uma moto para me deixar preso na parede da parte de baixo da ponte, para quando meu personagem começar a se levantar, ir para dentro dela. 
 
-🔄 Passos para Reproduzir 
+## 🔄 Passos para Reproduzir 
 
 Passo 1: Pegue uma moto que consiga empinar facilmente e fique se chocando com a parte final da ponte enquanto empina. 
 
@@ -18,18 +18,18 @@ Passo 3: A física do jogo faz você levantar no lugar com maior espaço possív
 
 Passo 4: Acaba sendo um bug vantajoso para quem faz, porque impede que outros jogadores te acertem, mas você consegue acertar qualquer um que passe pela região. 
 
-🎯 Resultado Esperado 
+## 🎯 Resultado Esperado 
 
 O personagem deveria levantar onde caiu, no máximo do lado, caso o boneco esteja preso entre a moto e a parede 
 
-🚨 Resultado Obtido 
+## 🚨 Resultado Obtido 
 
  O jogo te faz levantar dentro da ponte
 
-⚠ Impacto do Bug 
+## ⚠ Impacto do Bug 
 
 🔹 Leve /🔸 Moderado: Para a pessoa que faz não é tão grave, já que ela fica tecnicamente imortal dentro de um lugar totalmente fechado para os outros e pode sair facilmente. O problema real é para as pessoas que estão passando pela região, pois o jogador mesmo dentro da ponte consegue atingir NPCs e outros jogadores que passarem, causando um tumulto e atrapalhando a jogabilidade de quem estiver por perto.  
 
-🛠 Possível Solução 
+## 🛠 Possível Solução 
 
 Adicionar uma caixa de colisão sólida dentro da ponte, se a parte interna da ponte tiver colisão, o personagem não será reposicionado ali. Dessa forma, o jogo forçaria o respawn para um local externo seguro.
