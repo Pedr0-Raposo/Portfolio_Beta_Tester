@@ -4,9 +4,9 @@
 
 🖥️ Plataforma: PC
 
-📍 Local do Bug: Pode ser feito em qualquer lugar que tenha um teste com dado.
+📍 Local do Bug: Pode ser feito em qualquer lugar que tenha um teste com d20.
 
-📝 Descrição: Mudando a Classe de dificuldade (CD) dos testes para 0
+📝 Descrição: Mudando a Classe de dificuldade dos testes para 0
 
 ## 🔄 Passos para Reproduzir 
 
@@ -18,19 +18,18 @@ Passo 3: Depois que o dado parar, recarregue o save e a dificuldade deverá ter 
 
 ## 🎯 Resultado Esperado 
 
-Se foi feito um salvamente rápido no meio do rolamento dos dados, ao recarregar o save, deveria voltar no mesmo local ou ao lado do ponto em que o teste é realizado.
-
+Ao recarregar o save o teste deveria continuar com sua classe de dificuldade inalterada.
 ## 🚨 Resultado Obtido 
 
-Por fazer o salvamento durante a rolagem dos dados, o seu save irá recarregar antes do clique para o teste ter sido feito. Bugando a classe de dificuldadde e fazendo ela ser zerada.  
+Por fazer o salvamento durante a rolagem dos dados, o seu save irá recarregar antes do clique para o teste ter sido feito. Bugando a classe de dificuldade e fazendo ela ser zerada.  
 
 ## ⚠ Impacto do Bug 
 
-🔸 Moderado: Pode atrapalhar a jogabilidade,  
+🔹 Leve: Um problema que não afeta muito a experiência do jogo, já ela não trava o jogador em nenhum teste, apenas facilita com que os testes sejam sempre um sucesso, independente do resultado dos dados. 
 
 ## 🛠 Possível Solução 
 
-[Sugestão para corrigir o problema, se aplicável]  
+Se foi feito um salvamente rápido no meio do rolamento dos dados, ao recarregar o save, deveria voltar no mesmo local ou ao lado do ponto em que o teste é realizado.  
 
 ## 🖼️ Captura de Tela / Vídeo 
 
