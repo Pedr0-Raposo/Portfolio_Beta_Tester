@@ -3,8 +3,8 @@
 
 🖥️ Plataforma: PC
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
-
+📍 Local do Bug: 
+![Localização da ponte]()
 📝 Descrição: [Explique o bug de forma clara] 
 
 🔄 Passos para Reproduzir 
