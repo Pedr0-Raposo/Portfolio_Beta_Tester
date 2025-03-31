@@ -27,5 +27,5 @@ Você atravessa o pilar como se ele não existesse
 🔹 Leve: Apenas um problema visual 
 
 🛠 Possível Solução 
-Adicionar umacaixa de colisão cilindrica ao pilar.
+Adicionar uma caixa de colisão cilindrica ao pilar.
 
