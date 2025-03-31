@@ -5,18 +5,18 @@
 
 📍 Local do Bug: Arena do Boss do capítulo 5  
 
-📝 Descrição: 
+📝 Descrição: Quando você derrotar o Boss do capitlo 5 e retornar a sua arena, vai ncontrar a PingPing conpletamente imóvel no meio da arena e sem colisão alguma.
 
 🔄 Passos para Reproduzir 
 
-Passo 1:   
-Passo 2:  
-
+Passo 1: Derrote o Boss do capítulo 5  
+Passo 2: Use o incensário para voltar até o mapa do capítulo 5 
+Passo 3: Vá até a arena,
 
 
 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+  
 
 🚨 Resultado Obtido 
 
