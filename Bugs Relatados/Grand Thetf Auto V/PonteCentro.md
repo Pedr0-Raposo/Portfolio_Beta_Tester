@@ -1,8 +1,7 @@
-🎮 [Nome do Jogo] - [Descrição do Bug] 
+🎮 Grand Thetf Auto V - bug para ficar dentro da ponte no centro de Los Santos.
+📅 Data do Relatório: 28/08/2021 
 
-📅 Data do Relatório: DD/MM/AAAA  
-
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
 📍 Local do Bug: [Onde o bug acontece no jogo]  
 
