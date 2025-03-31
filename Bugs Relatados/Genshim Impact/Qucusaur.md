@@ -2,8 +2,9 @@
 
 - **📅 Data do Relatório:** 22/01/2025
 - **🖥️ Plataforma:** PC
-- **📍 Local do Bug:
+- **📍 Local do Bug: Ele não precisa necessariamente de um local especifico, É apenas um local alto que da uma experiencia mais divertida.
 ![Local que foi feito](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BGI%5D-Qucusaur.png)
+
 - **📝 Descrição:** Um bug de câmera encontrado no jogo onde a câmera tenta focar na 2B e no 9S ao mesmo tempo, porém por deixar o 9S preso no elevador a câmera buga, sai do seu eixo original e filma o lado de fora do Buner em uma posição estranha.   
 
 ## 🔄 Passos para Reproduzir
