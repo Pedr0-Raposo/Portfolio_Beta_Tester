@@ -1,4 +1,4 @@
-## 🎮 Dark Souls 3 - Evangelista da Catedral dentro do chão.
+## 🎮Baldur´s gate 3 - Falha no teto de Emerald Grove
 
 📅 Data do Relatório: 26/02/2025
 
