@@ -11,7 +11,9 @@
 ## 🔄 Passos para Reproduzir 
 
 Passo 1: Siga o caminho da esquerda depois de sair da ilha tartaruga.
+
 Passo 2: Encontre uma área circular com uma lagoa a esquerda
+
 Passo 3: siga a parede da esquerda até encontrar o pilar
 
 
