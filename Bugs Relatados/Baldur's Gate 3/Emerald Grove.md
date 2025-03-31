@@ -4,7 +4,8 @@
 
 🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📍 Local do Bug: Caminho para chegar a esse local
+![Local](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera_local.png)
 
 📝 Descrição: [Explique o bug de forma clara] 
 
@@ -39,8 +40,5 @@
 ## 🖼️ Captura de Tela / Vídeo 
 
 ![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera.png)
-
-Caminho para chegar a esse local
-![Bug do Baldur´s Gate 3](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BBG3%5D-Camera_local.png)
 
 
