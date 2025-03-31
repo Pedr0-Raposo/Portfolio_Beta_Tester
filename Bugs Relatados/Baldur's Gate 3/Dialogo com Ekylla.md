@@ -4,7 +4,8 @@
 
 🖥️ Plataforma: PC
 
-📍 Local do Bug:   
+📍 Local do Bug:  ![Local](
+) 
 
 📝 Descrição: Originalmente, seriam 2 cenas separadas. A primeira sendo da Ekylla falando que iria procurar outro caminho, pois os cavaleiros estariam bloqueando a passagem pela ponte
 
