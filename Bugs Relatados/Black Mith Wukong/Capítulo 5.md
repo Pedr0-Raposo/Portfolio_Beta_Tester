@@ -1,4 +1,4 @@
-🎮 Black Myth Wukong - [Descrição do Bug] 
+🎮 Black Myth Wukong - Personagem PingPing parada como uma estátua no meio da arena após a derrota do boss
 
 📅 Data do Relatório: 29/08/2024
 🖥️ Plataforma: PC 
