@@ -1,40 +1,39 @@
-🎮 [Nome do Jogo] - Evangelista da Catedral dentro do chão.
+🎮 [Dark Souls 3] - Evangelista da Catedral dentro do chão.
 
 📅 Data do Relatório: DD/MM/AAAA  
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC 
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📍 Local do Bug: Assentamento dos Mortos-Vivos
 
-📝 Descrição: [Explique o bug de forma clara] 
+📝 Descrição:
 
 🔄 Passos para Reproduzir 
 
-[Passo 1: O que precisa ser feito]  
+Passo 1: Faça a Evangelista andar até cair da ponte.
 
-[Passo 2: Continuar com a ação]  
+Passo 2: Suba pela escada a esquerda logo depois de passar por baixo da ponte.
 
-[Passo 3: O bug acontece] 
+Passo 3: faça com que a Evangelista comece a andar de costas em direção a pilha de madeira escontada na parede.
+
+Passo 4: Ela irá subir na madeira encostada na parede e ficar presa dentro do chão. Podendo ver a cabeça dela pra fora em cima e parte do vestido por baixo da ponte 
 
 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+Independente da direção que ela estivesse se movendo, as madeiras apoiadas deveriam impedir qualquer um de subir ou passar.
 
 🚨 Resultado Obtido 
 
-[O que realmente acontece no jogo]  
+A caixa de colisão da Evangelista pode ser um pouco maior do que a da pilha de madeira, fazendo ela subir ao andar de costa enquanto olha para o jogador. 
 
 ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
+🔸 Moderado: Pode atrapalhar a jogabilidade, por deixar ela presa, fica mais dificil de acertar ataques corpo a corpo, enquanto ela continua te acertando normalmente, apesar de não conseguir se mexer mais.
 
-🔸 Moderado: Pode atrapalhar a jogabilidade, mas não impede o progresso. 
-
-🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
 
 🛠 Possível Solução 
 
-[Sugestão para corrigir o problema, se aplicável]  
+Aumentar a caixa de colisão da pilha de madeira verticalmente, deixando ela maior do que a da Evangelista 
 
 🖼️ Captura de Tela / Vídeo 
 
