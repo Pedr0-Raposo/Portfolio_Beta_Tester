@@ -1,45 +1,37 @@
-## 🎮 [Nome do Jogo] - [Descrição do Bug] 
+## 🎮 The First Berserker - Preso entre a parede e alavanca
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: 31/03/2025
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📍 Local do Bug: Subsolo do templo abandonado.
 
-📝 Descrição: [Explique o bug de forma clara] 
+📝 Descrição: Enquando espera o elevador chegar ao seu andar, entrar por acidente no espaço entre a alavanca e a parede, faz você ficar preso.
 
 ## 🔄 Passos para Reproduzir 
 
-[Passo 1: O que precisa ser feito]  
+Passo 1: Suba em cima da alavanca.
 
-[Passo 2: Continuar com a ação]  
+Passo 2: De a volta nela pela esquerda, ainda permanecendo em cima dela.
 
-[Passo 3: O bug acontece] 
+Passo 3: Agora que está do outro lado, você ficará preso.
 
 ## 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+Deveria ter espaço suficiente para você sair e continuar sua exploração  normalmente 
 
 ## 🚨 Resultado Obtido 
 
-[O que realmente acontece no jogo]  
+A caixa de colisão da alavanca parece se um pouco mais alta, deixando seu personagem preso. Uma opção para sair, é usando habilidades que te permitem dar um salto bem enquanto se movimenta para frente, já que esse jogo não te permite pular. 
 
 ## ⚠ Impacto do Bug 
 
 🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
 
-🔸 Moderado: Pode atrapalhar a jogabilidade, mas não impede o progresso. 
-
-🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
-
 ## 🛠 Possível Solução 
 
-[Sugestão para corrigir o problema, se aplicável]  
+Mudar a posição da alavanca, deixando um espaço maior entre ela e a parede ou rodando o eixo dela horizontalmente.
 
 ## 🖼️ Captura de Tela / Vídeo 
 
-Se houver imagens ou vídeos do bug, inclua-os aqui: 
-
-![Descrição da Imagem](../Imagens/nome_do_arquivo.png) 
-
-Ou adicione um link para um vídeo no YouTube/Google Drive. 
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=PCXSVzjXyyM)
