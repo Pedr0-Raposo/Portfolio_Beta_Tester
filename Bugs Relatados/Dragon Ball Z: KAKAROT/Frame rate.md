@@ -1,6 +1,6 @@
 ## 🎮 Dragon ball Z: KAKAROT - Uma queda brusca no frame rate me fez atravessar a montanha.
 
-📅 Data do Relatório: /MM/AAAA  
+📅 Data do Relatório: 15/04/2023  
 
 🖥️ Plataforma: PC
 📍 Local do Bug: Terra 
