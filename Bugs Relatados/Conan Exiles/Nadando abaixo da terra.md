@@ -2,9 +2,9 @@
 
 📅 Data do Relatório: DD/MM/AAAA  
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📍 Local do Bug: [](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BConan%5D-Local.png) 
 
 📝 Descrição: [Explique o bug de forma clara] 
 
