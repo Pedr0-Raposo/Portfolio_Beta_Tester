@@ -37,9 +37,4 @@
 [Sugestão para corrigir o problema, se aplicável]  
 
 ## 🖼️ Captura de Tela / Vídeo 
-
-Se houver imagens ou vídeos do bug, inclua-os aqui: 
-
-![Descrição da Imagem](../Imagens/nome_do_arquivo.png) 
-
-Ou adicione um link para um vídeo no YouTube/Google Drive. 
+"[](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BConan%20Exiles%5D-Abaixo_da_terra.png)
