@@ -37,4 +37,4 @@
 [Sugestão para corrigir o problema, se aplicável]  
 
 ## 🖼️ Captura de Tela / Vídeo 
-"[](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BConan%20Exiles%5D-Abaixo_da_terra.png)
+![](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BConan%20Exiles%5D-Abaixo_da_terra.png)
