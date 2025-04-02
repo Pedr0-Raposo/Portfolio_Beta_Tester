@@ -1,40 +1,31 @@
-## 🎮 [Nome do Jogo] - [Descrição do Bug] 
+## 🎮 Dragon ball Z: KAKAROT - Uma queda brusca no frame rate me fez atravessar a montanha.
 
-📅 Data do Relatório: DD/MM/AAAA  
+📅 Data do Relatório: /MM/AAAA  
 
-🖥️ Plataforma: (PC, Xbox, PS5, etc.)  
+🖥️ Plataforma: PC
+📍 Local do Bug: Terra 
 
-📍 Local do Bug: [Onde o bug acontece no jogo]  
+📝 Descrição: Estava voando com o Gohan no seu traje de grande sayaman, percorrendo o mapa rente ao chão, quando uma queda no frame rate ocorreu enquanto estava indo em direção a montanha próxima da casa dele. Essa queda de frame, no momento em que iria colidir com a montanha me fez atravessar o chão como se ele não existisse.
 
-📝 Descrição: [Explique o bug de forma clara] 
-
-## 🔄 Passos para Reproduzir 
-
-[Passo 1: O que precisa ser feito]  
-
-[Passo 2: Continuar com a ação]  
-
-[Passo 3: O bug acontece] 
 
 ## 🎯 Resultado Esperado 
 
-[O que deveria acontecer normalmente]  
+Sem a queda de frame, o personegem continuaria o percurso normal, subindo a montanha.
 
 ## 🚨 Resultado Obtido 
 
-[O que realmente acontece no jogo]  
+A queda de frame naquele momento deve ter criado uma falha na renderização do terreno, me fazendo atravessar o chão.  
 
 ## ⚠ Impacto do Bug 
 
-🔹 Leve: Apenas um problema visual ou pequeno incômodo. 
+🔹 Leve: Apenas um problema de desempenho. 
 
-🔸 Moderado: Pode atrapalhar a jogabilidade, mas não impede o progresso. 
-
-🔴 Grave: O bug pode travar o jogo ou prejudicar a experiência seriamente.  
 
 ## 🛠 Possível Solução 
 
-[Sugestão para corrigir o problema, se aplicável]  
+Resolução por Reset de Posição.
+
+Caso o jogo detecte que o personagem entrou em uma área não permitida, um sistema de "fail-safe" pode reposicioná-lo automaticamente em uma área segura próxima.
 
 ## 🖼️ Captura de Tela / Vídeo 
 ![Gohan no Limbo](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BDBZ%20KAKAROT%5D-Dentro_da_terra.png)
