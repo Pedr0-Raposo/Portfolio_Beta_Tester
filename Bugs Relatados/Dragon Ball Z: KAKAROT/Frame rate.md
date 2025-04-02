@@ -37,4 +37,4 @@
 [Sugestão para corrigir o problema, se aplicável]  
 
 ## 🖼️ Captura de Tela / Vídeo 
-![Gohan no Limbo]()
+![Gohan no Limbo](https://github.com/Pedr0-Raposo/Portfolio_Beta_Tester/blob/main/Bugs%20Relatados/imagens/%5BDBZ%20KAKAROT%5D-Dentro_da_terra.png)
