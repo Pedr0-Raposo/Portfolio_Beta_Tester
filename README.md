@@ -28,6 +28,6 @@ Sou um entusiasta de QA e testes de software, apaixonado por identificar falhas 
 
   
 ## 📬 Contato
-- ✉️ Email: [Ti0pedroficia@gmail.com](mailto:Ti0pedroficial@gmail.com)
+- ✉️ Email: [pedroa.raposo20@gmail.com](mailto:Ti0pedroficial@gmail.com)
 - Discord [.tiopedro] ou [TioPedro#0616] 
 - Youtube [Meu Canal](https://www.youtube.com/@tiopedro7759)
