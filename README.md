@@ -1,4 +1,4 @@
-# 🎮 Portfólio de Beta Tester
+# 🎮 Portfólio QA
 
 Bem-vindo ao meu portfólio de QA! Aqui compartilho alguns dos bugs que encontrei em jogos e aplicativos, além de minhas experiências com testes beta.
 
