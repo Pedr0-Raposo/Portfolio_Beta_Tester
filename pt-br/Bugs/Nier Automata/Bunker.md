@@ -3,7 +3,7 @@
 - **📅 Data do Relatório:** 15/06/2018
 - **🖥️ Plataforma:** Xbox  
 - **📍 Local do Bug:** Bunker  
-- **📝 Descrição:** Um bug de câmera encontrado no jogo onde a câmera tenta focar na 2B e no 9S ao mesmo tempo, porém por deixar o 9S preso no elevador a câmera buga, sai do seu eixo original e filma o lado de fora do Buner em uma posição estranha.   
+- **📝 Descrição:** Um bug de câmera encontrado no jogo onde a câmera tenta focar na 2B e no 9S ao mesmo tempo, porém por deixar um dos androids preso no elevador a câmera buga, sai do seu eixo original e filma o lado de fora do Buner em uma posição estranha.   
 
 ## 🔄 Passos para Reproduzir
 1. Subir pelo elevador onde se encontram os YorHa flight unit
@@ -21,7 +21,7 @@ A câmera sai do eixo e se desloca para fora do Bunker
 🔸 **Moderado:** Pode atrapalhar a jogabilidade
 
 ## 🛠 Possível Solução
-fazer o 9S aparecer próximo a 2B ao detectar que ele está longe do jogador. 
+Diminuir a distância de detecção e fazer o companheiro aparecer próximo ao personagem jogável ao detectar que ele está longe do jogador. 
 
 ## 🖼️ Captura de Tela / Vídeo 
 
