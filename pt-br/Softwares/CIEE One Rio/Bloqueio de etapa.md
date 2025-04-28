@@ -5,7 +5,7 @@
 🖥️ Plataforma: mobile
 
 📍 Local do Bug:  "Meus objetivos profissionais"
-![Imagens]()
+![Imagens](https://github.com/Pedr0-Raposo/Portfolio_QA/blob/main/Bugs%20Relatados/imagens/CIEELocal.jpg)
 
 📝 Descrição: 
 
