@@ -35,7 +35,7 @@ Passo 3:
 
 ## 🖼️ Captura de Tela / Vídeo 
 
-![Imagens]()
+![Imagens](https://github.com/Pedr0-Raposo/Portfolio_QA/blob/main/Bugs%20Relatados/imagens/CIEE2.jpg)
 
 
 
